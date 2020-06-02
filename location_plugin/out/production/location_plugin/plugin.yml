@@ -1,0 +1,5 @@
+name: LocationDownload
+version: 0.1
+description: Store the location coordinates in a log file
+author: Kritin Singhal
+main: com.mcres.boredom.Main
